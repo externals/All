@@ -1,0 +1,5 @@
+[submodule "jquery"]
+	path = jquery
+	url = https://github.com/externals/jquery.git
+    branch = packages
+
