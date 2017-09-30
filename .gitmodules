@@ -22,3 +22,9 @@
 	path = d3js
 	url = https://github.com/externals/d3js.git
 	branch = packages
+
+[submodule "select2"]
+	path = select2
+	url = https://github.com/externals/select2.git
+    branch = packages
+
