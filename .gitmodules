@@ -17,3 +17,8 @@
 	path = dropzonejs
 	url = https://github.com/externals/dropzonejs.git
 	branch = packages
+
+[submodule "d3js"]
+	path = d3js
+	url = https://github.com/externals/d3js.git
+	branch = packages
