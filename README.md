@@ -16,6 +16,8 @@ The bundle you can find here in .gitmodule as list of submodules to be installed
 Copy the submudules you want or get all repos and the "package"" branches as follow:
 
     git clone https://github.com/externals/_ALL_ externals/
+    git submodule update --init
+    git submodule update --remote
 
 If your version is not included send a pull request or do it localy at you own.
 
