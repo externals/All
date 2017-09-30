@@ -14,7 +14,8 @@ For each repo exists an "packages"" branch you may checkout to have several vers
 # Install
 The bundle you can find here in .gitmodule as list of submodules to be installed/downloaded.
 Copy the submudules you want or get all repos and the "package"" branches as follow:
-    ># git clone https://github.com/externals/_ALL_ externals/
+
+    git clone https://github.com/externals/_ALL_ externals/
 
 If your version is not included send a pull request or do it localy at you own.
 
