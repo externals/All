@@ -4,11 +4,17 @@ Hi, welcome to externals
 
 Repositories for web development.
 
-This is all to know: several repositories ready to use for big applications with feature externals. wich means:
+This is all to know: several repositories ready to use for big applications with feature externals.
+Wich means:
 
 Your app grows but new apps need newer versions of externals. This can be an anwer for you.
 
-For each repo there exists an packages branch you may checkout.
+For each repo exists an "packages"" branch you may checkout to have several versions available.
+
+# Install
+The bundle you can find here in .gitmodule as list of submodules to be installed/downloaded.
+Copy the submudules you want or get all repos and the "package"" branches as follow:
+    ># git clone https://github.com/externals/_ALL_ externals/
 
 If your version is not included send a pull request or do it localy at you own.
 

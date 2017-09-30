@@ -3,3 +3,17 @@
 	url = https://github.com/externals/jquery.git
     branch = packages
 
+[submodule "jquery-ui"]
+	path = jquery-ui
+	url = https://github.com/externals/jquery-ui.git
+    branch = packages
+
+[submodule "qunit"]
+	path = qunit
+	url = https://github.com/externals/qunit.git
+    branch = packages
+
+[submodule "dropzonejs"]
+	path = dropzonejs
+	url = https://github.com/externals/dropzonejs.git
+    branch = packages
