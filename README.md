@@ -16,6 +16,7 @@ The bundle you can find here in .gitmodule as list of submodules to be installed
 Copy the submudules you want or get all repos and the "package"" branches as follow:
 
     git clone https://github.com/externals/_ALL_ externals/
+    cd externals/
     git submodule update --init
     git submodule update --remote
 
@@ -23,8 +24,4 @@ If your version is not included send a pull request or do it localy at you own.
 
 This repos should solve problems for the future to be still active with new features and keep old stuff with old versions. ~10-15 Years of version changes i try to keep up before dropping them in packages branch.
 
-Why this?
-Really: Time should change things. CDN is not the anwser anymore and a trojan for your visitors! Host your stuff by your self!
-Trust is good, controll is better!
-
-Have a nice day :)
+Happy coding
