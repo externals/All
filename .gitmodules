@@ -16,15 +16,20 @@
 [submodule "dropzonejs"]
 	path = dropzonejs
 	url = https://github.com/externals/dropzonejs.git
-	branch = packages
+    branch = packages
 
 [submodule "d3js"]
 	path = d3js
 	url = https://github.com/externals/d3js.git
-	branch = packages
+    branch = packages
 
 [submodule "select2"]
 	path = select2
 	url = https://github.com/externals/select2.git
     branch = packages
+
+[submodule "mumsys-js/stable"]
+	path = mumsys-js/stable
+	url = https://github.com/flobee/mumsys-js.git
+    branch = stable
 
