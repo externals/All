@@ -1,10 +1,10 @@
 {
-    "name": "externals/All",
+    "name": "externals/all",
     "description": "mixed stuff of externals for web development - jquery, jqery-ui, qunit, d3js, select2, dropzone ...",
     "license": "MIXED",
     "type": "bundles",
     "keywords": ["javascript"],
-    "homepage": "https://github.com/externals/All",
+    "homepage": "https://github.com/externals/all",
     "authors": [
         {
             "name": "Florian Blasel",
