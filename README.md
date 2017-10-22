@@ -1,4 +1,4 @@
-# _ALL_
+# All
 
 Hi, welcome to externals
 
@@ -15,7 +15,7 @@ For each repo exists an "packages"" branch you may checkout to have several vers
 The bundle you can find here in .gitmodule as list of submodules to be installed/downloaded.
 Copy the submudules you want or get all repos and the "package"" branches as follow:
 
-    git clone https://github.com/externals/All externals/
+    git clone https://github.com/externals/all externals/
     cd externals/
     git submodule update --init
     git submodule update --remote
