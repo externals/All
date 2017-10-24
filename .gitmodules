@@ -28,4 +28,8 @@
 	url = https://github.com/externals/select2.git
     branch = packages
 
+[submodule "mumsys-js"]
+    path = mumsys-js
+    url = https://github.com/externals/mumsys-js.git
+    branch = packages
 
