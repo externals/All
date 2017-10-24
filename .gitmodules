@@ -28,8 +28,4 @@
 	url = https://github.com/externals/select2.git
     branch = packages
 
-[submodule "mumsys-js/stable"]
-	path = mumsys-js/stable
-	url = https://github.com/flobee/mumsys-js.git
-    branch = stable
 
