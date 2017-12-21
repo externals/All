@@ -33,3 +33,8 @@
     url = https://github.com/externals/mumsys-js.git
     branch = packages
 
+[submodule "c3js"]
+	path = c3js
+	url = https://github.com/externals/c3js.git
+    branch = packages
+
