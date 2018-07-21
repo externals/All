@@ -1,31 +1,31 @@
 [submodule "jquery"]
-	path = jquery
-	url = https://github.com/externals/jquery.git
-	branch = packages
+    path = jquery
+    url = https://github.com/externals/jquery.git
+    branch = packages
 
 [submodule "jquery-ui"]
-	path = jquery-ui
-	url = https://github.com/externals/jquery-ui.git
-	branch = packages
+    path = jquery-ui
+    url = https://github.com/externals/jquery-ui.git
+    branch = packages
 
 [submodule "qunit"]
-	path = qunit
-	url = https://github.com/externals/qunit.git
-	branch = packages
+    path = qunit
+    url = https://github.com/externals/qunit.git
+    branch = packages
 
 [submodule "dropzonejs"]
-	path = dropzonejs
-	url = https://github.com/externals/dropzonejs.git
+    path = dropzonejs
+    url = https://github.com/externals/dropzonejs.git
     branch = packages
 
 [submodule "d3js"]
-	path = d3js
-	url = https://github.com/externals/d3js.git
+    path = d3js
+    url = https://github.com/externals/d3js.git
     branch = packages
 
 [submodule "select2"]
-	path = select2
-	url = https://github.com/externals/select2.git
+    path = select2
+    url = https://github.com/externals/select2.git
     branch = packages
 
 [submodule "mumsys-js"]
@@ -34,7 +34,11 @@
     branch = packages
 
 [submodule "c3js"]
-	path = c3js
-	url = https://github.com/externals/c3js.git
+    path = c3js
+    url = https://github.com/externals/c3js.git
     branch = packages
 
+[submodule "gettext.js"]
+    path = gettext.js
+    url = https://github.com/externals/gettext.js.git
+    branch = packages
