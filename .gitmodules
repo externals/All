@@ -42,3 +42,9 @@
     path = gettext.js
     url = https://github.com/externals/gettext.js.git
     branch = packages
+
+[submodule "normalize.css"]
+    path = normalize.css
+    url = https://github.com/externals/normalize.css.git
+    branch = packages
+
