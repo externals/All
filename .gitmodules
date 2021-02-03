@@ -53,3 +53,8 @@
     url = https://github.com/externals/c-sprintf.js.git
     branch = packages
 
+[submodule "npm-sprintf.js"]
+    path = npm-sprintf.js
+    url = https://github.com/externals/npm-sprintf.js.git
+    branch = packages
+
