@@ -49,7 +49,7 @@
     branch = packages
 
 [submodule "sprintf.js"]
-    path = sprintf.js
-    url = https://github.com/externals/sprintf.js.git
+	path = sprintf.js
+	url = https://github.com/externals/sprintf.js.git
     branch = packages
 
