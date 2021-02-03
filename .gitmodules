@@ -48,8 +48,8 @@
     url = https://github.com/externals/normalize.css.git
     branch = packages
 
-[submodule "sprintf.js"]
-	path = sprintf.js
-	url = https://github.com/externals/sprintf.js.git
+[submodule "c-sprintf.js"]
+    path = c-sprintf.js
+    url = https://github.com/externals/c-sprintf.js.git
     branch = packages
 
