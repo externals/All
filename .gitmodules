@@ -63,3 +63,7 @@
     url = https://github.com/externals/jquery-querybuilder.git
     branch = packages
 
+[submodule "twbs-bootstrap"]
+    path = twbs-bootstrap
+    url = https://github.com/externals/twbs-bootstrap.git
+    branch = packages
