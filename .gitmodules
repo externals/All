@@ -58,3 +58,8 @@
     url = https://github.com/externals/npm-sprintf.js.git
     branch = packages
 
+[submodule "jquery-querybuilder"]
+    path = jquery-querybuilder
+    url = https://github.com/externals/jquery-querybuilder.git
+    branch = packages
+
