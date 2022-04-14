@@ -67,3 +67,8 @@
     path = twbs-bootstrap
     url = https://github.com/externals/twbs-bootstrap.git
     branch = packages
+
+[submodule "moment.js"]
+	path = moment.js
+	url = https://github.com/externals/moments.js.git
+	branch = packages
